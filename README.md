@@ -1,12 +1,6 @@
 # Mental-health conditions and risk of subsequent self-harm, assault, and unintentional injuries: Administrative-register analysis of 5.1 million citizens from two nations
 
 # Table of contents 
-**Norway 1. Mental Health Injuries.sas**   
-- Data setup and statistical analyses, Norwegian data
-
-**Norway 2. Plots and Tables.R**   
-- Create plots and tables, Norwegian data
-
 **NZIDI 1. Cohort Derivation.sas**   
 - Construct birth cohort, NZIDI
 
@@ -21,6 +15,12 @@
 
 **NZIDI 5. Mental Health Injury Analyses.sas**   
 - Statistical models, NZIDI
+
+**Norway 1. Mental Health Injuries.sas**   
+- Data setup and statistical analyses, Norwegian data
+
+**Norway 2. Plots and Tables.R**   
+- Create plots and tables, Norwegian data
 
 **Manuscript authors:** 
 - Leah S. Richmond-Rakerd, PhD
