@@ -8,14 +8,20 @@
 - Data setup for mental health diagnoses, NZIDI
 
 **NZIDI 3. Exposure Matching.sas**   
-- Exposure matching to equate mental health cases and controls on observation time, NZIDI
+- Exposure matching to equate mental health cases and controls on observation time, 30y observation period, NZIDI
 
 **NZIDI 4. Injury Diagnoses.sas**   
 - Data setup for injury diagnoses, NZIDI
 
-**NZIDI 5. Mental Health Injury Analyses.sas**   
-- Statistical models, NZIDI
+**NZIDI 5. Mental Health Hospitalized Injury Analyses.sas**   
+- Statistical models for analyses of hospitalized injury, NZIDI
 
+**NZIDI 6. ACC Exposure Matching.sas**   
+- Exposure matching to equate mental health cases and controls on observation time, 20y ACC observation period, NZIDI
+
+**NZIDI 7. Mental Health ACC Injury Analyses.sas**   
+- Statistical models for analyses of ACC injury, NZIDI
+  
 **Norway 1. Mental Health Injuries.sas**   
 - Data setup and statistical analyses, Norwegian data
 
