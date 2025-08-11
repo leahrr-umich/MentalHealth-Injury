@@ -4,6 +4,12 @@
 Mental-health conditions are associated with increased risk of chronic physical diseases, but their implications for other physical-health outcomes, including injuries, are less established. In this prospective cohort study, we tested whether mental-health conditions antedate unintentional as well as self-harm and assault injuries, using administrative data from Norway (N=2,753,646) and New Zealand (N=2,238,813). In Norway, after accounting for pre-existing injuries, individuals with a primary-care encounter for a mental-health condition subsequently had elevated risk of primary care-recorded injury. In New Zealand, as expected, individuals with a mental health inpatient-hospital admission had elevated risk of subsequent inpatient hospital-recorded self-harm injury, as well as assault injury. However, they also had elevated risk of unintentional injuries. Associations extended to injury-insurance claims. Across nations, associations were evident across mental-health conditions, sex, age, and after accounting for indicators of socioeconomic background. Injuries particularly involved the brain and head. Mental-health patients are an important group for injury prevention.
 
 # Table of contents 
+**Norway 1. Mental Health Injuries.sas**   
+- Data setup and statistical analyses, Norwegian data
+
+**Norway 2. Plots and Tables.R**   
+- Create plots and tables, Norwegian data
+  
 **NZIDI 1. Cohort Derivation.sas**   
 - Construct birth cohort, NZIDI
 
@@ -27,12 +33,6 @@ Mental-health conditions are associated with increased risk of chronic physical 
 
 **NZIDI 8. Additional Descriptives and Time Interval Analysis.sas**
 - Study population descriptives (e.g., ethnic distribution) and analysis of risk for hospitalized injury across varying follow-up intervals
-  
-**Norway 1. Mental Health Injuries.sas**   
-- Data setup and statistical analyses, Norwegian data
-
-**Norway 2. Plots and Tables.R**   
-- Create plots and tables, Norwegian data
 
 # Authors
 **Manuscript authors:** 
